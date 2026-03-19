@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "らしく",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-03-19T03:18:44.916441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "桃井はるこ",
+      "has_synced": false,
+      "path": "select/01_“らしく”いきましょ_桃井はるこ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "Momoi, Haruko",
+      "has_synced": false,
+      "path": "select/02_“らしく”いきましょ_Momoi,_Haruko.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "らしく",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/03_らしく_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "Meu",
+      "has_synced": true,
+      "path": "select/04_“らしく”いきましょ_Meu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ（オリジナルカラオケ）",
+      "artist": "Kajitani, Miyuki",
+      "has_synced": false,
+      "path": "select/05_“らしく”いきましょ(オリジナルカラオケ)_Kajitani,_Miyuki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/06_“らしく”いきましょ_榊原ゆい.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "Haruko Momoi",
+      "has_synced": false,
+      "path": "select/07_“らしく”いきましょ_Haruko_Momoi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "花たん",
+      "has_synced": true,
+      "path": "select/08_“らしく”いきましょ_花たん.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "有澤孝紀",
+      "has_synced": true,
+      "path": "select/09_“らしく”いきましょ_有澤孝紀.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/10_“らしく”いきましょ_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "\"らしく\"いきましょ",
+      "artist": "Meu",
+      "has_synced": true,
+      "path": "select/11_らしく_いきましょ_Meu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "有澤孝紀",
+      "has_synced": false,
+      "path": "select/12_“らしく”いきましょ_有澤孝紀.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "YURiCa/花たん",
+      "has_synced": true,
+      "path": "select/13_“らしく”いきましょ_YURiCa_花たん.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "Meu",
+      "has_synced": false,
+      "path": "select/14_“らしく”いきましょ_Meu.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "ユリカ／花たん",
+      "has_synced": true,
+      "path": "select/15_“らしく”いきましょ_ユリカ_花たん.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "“らしく”いきましょ",
+      "artist": "玲桜奈",
+      "has_synced": true,
+      "path": "select/16_“らしく”いきましょ_玲桜奈.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "“らしく” いきましょ",
+      "artist": "玲桜奈",
+      "has_synced": true,
+      "path": "select/17_“らしく”_いきましょ_玲桜奈.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "“らしく” いきましょ",
+      "artist": "Sailor Moon",
+      "has_synced": true,
+      "path": "select/18_“らしく”_いきましょ_Sailor_Moon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "らしく",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_らしく_ヤングスキニー.txt"
+    }
+  ]
+}
